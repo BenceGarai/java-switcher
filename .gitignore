@@ -1,0 +1,12 @@
+# User-specific config
+config/config.json
+
+# Logs
+*.log
+
+# Windows files
+Thumbs.db
+Desktop.ini
+
+# PowerShell history
+*.pshistory
